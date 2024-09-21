@@ -3,7 +3,7 @@
   "description": "React hook for tying a callback to a React dependency array.",
   "license": "MIT",
   "name": "@hoologic/use-dependencies",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "bugs": {
     "url": "https://github.com/hoologic/use-dependencies/issues"
   },
@@ -17,7 +17,7 @@
     "index.js",
     "index.js.map"
   ],
-  "homepage": "https://github.com/hoologic/use-dependencies#readme",
+  "homepage": "https://github.com/hoologic/use-dependencies",
   "keywords": [
     "hook",
     "React",
