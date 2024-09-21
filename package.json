@@ -1,9 +1,9 @@
 {
   "author": "Bryn Dyment <bryndyment@gmail.com>",
-  "description": "React hook for tying a function call to a React dependency array.",
+  "description": "React hook for tying a callback to a React dependency array.",
   "license": "MIT",
   "name": "@hoologic/use-dependencies",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "bugs": {
     "url": "https://github.com/hoologic/use-dependencies/issues"
   },
