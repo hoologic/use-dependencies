@@ -1,6 +1,6 @@
 {
   "author": "Bryn Dyment <bryndyment@gmail.com>",
-  "description": "React hook for tying a function call to a React dependency list.",
+  "description": "React hook for tying a function call to a React dependency array.",
   "license": "MIT",
   "name": "@hoologic/use-dependencies",
   "version": "1.0.0",
